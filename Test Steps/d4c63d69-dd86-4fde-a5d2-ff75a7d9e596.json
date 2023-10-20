@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home",
+        "step 3: Navigate to Page home",
+        "step 4: At Page home click on button add to cart sauce labs backpack",
+        "step 5: Add visual checkpoint at Page home"
+    ]
+}

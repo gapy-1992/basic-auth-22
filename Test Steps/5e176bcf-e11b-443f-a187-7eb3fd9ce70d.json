@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home",
+        "step 3: Navigate to Page home",
+        "step 4: At Page home click on hyperlink item 0 title link --> navigate to Page inventory-item html",
+        "step 5: At Page inventory-item html click on button add to cart sauce labs bike light",
+        "step 6: At Page inventory-item html click on hyperlink object --> navigate to Page cart html",
+        "step 7: At Page cart html click on button checkout --> navigate to Page checkout-step-one html",
+        "step 8: At Page checkout-step-one html input on input first name",
+        "step 9: At Page checkout-step-one html input on input last name",
+        "step 10: At Page checkout-step-one html input on input postal code",
+        "step 11: At Page checkout-step-one html click on input continue --> navigate to Page checkout-step-two html",
+        "step 12: Add visual checkpoint at Page checkout-step-two html"
+    ]
+}

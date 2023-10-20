@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home --> navigate to Page checkout-complete html",
+        "step 3: Add visual checkpoint at Page checkout-complete html"
+    ]
+}
